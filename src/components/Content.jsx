@@ -33,6 +33,7 @@ const Content = ({ user }) => {
     <div>
       <div className="container is-max-desktop my-5">
         <nav className="level">
+          😀
           <div className="level-item has-text-centered">
             <div>
               <p className="heading">Followers</p>
