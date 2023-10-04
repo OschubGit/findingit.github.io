@@ -36,7 +36,7 @@ const Content = ({ user }) => {
           😀
           <div className="level-item has-text-centered">
             <div>
-              <p className="heading">Followers</p>
+              <p className="heading">Followers 😀</p>
               <p className="title">{user.followers}</p>
             </div>
           </div>
